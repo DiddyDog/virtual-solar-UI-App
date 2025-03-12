@@ -21,7 +21,7 @@ struct ContentView: View {
                 Color("BackgroundColor").ignoresSafeArea()
                 
                 VStack{
-                    Text("Dieter")
+                    Text("Login")
                         .font(.largeTitle)
                         .foregroundColor(Color.white)
                         .multilineTextAlignment(.center)
